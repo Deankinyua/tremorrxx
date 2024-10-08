@@ -1,7 +1,0 @@
-{
-  "name": "assets",
-  "version": "1.0.0",
-  "dependencies": {
-    "tremorx": "file:../../deps/tremorx"
-  }
-}
