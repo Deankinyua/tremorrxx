@@ -32,7 +32,7 @@ defmodule Tremorrxx.MixProject do
   # Type `mix help deps` for examples and options.
   defp deps do
     [
-      {:tremorx, "~> 0.1.0"},
+      {:tremorx, git: "https://github.com/briankariuki/tremorx.git"},
       {:phoenix, "~> 1.7.14"},
       {:phoenix_ecto, "~> 4.5"},
       {:ecto_sql, "~> 3.10"},
